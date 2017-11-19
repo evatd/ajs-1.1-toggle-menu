@@ -43,4 +43,3 @@ if (primaryNav !== null && navMenu !== null) {
     }
   });
 }
-
