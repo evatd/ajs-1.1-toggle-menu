@@ -3,7 +3,7 @@
 
 Solution to the following task:
 
-# Task
+### Task
 
 Our goal is to transform the attached menu into a collapsible/hidden menu.
 - i.e. similar to the hamburger menus found on responsive websites We will do this without altering the HTML in any way.
